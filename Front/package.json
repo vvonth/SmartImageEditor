@@ -15,7 +15,7 @@
     "element-ui": "^2.4.5",
     "html2canvas": "^1.0.0-rc.5",
     "jquery": "^3.5.0",
-    "jspdf": "^1.5.3",
+    "jspdf": "^2.5.1",
     "jwt-decode": "^2.2.0",
     "material-design-icons-iconfont": "^5.0.1",
     "pdfcrowd": "^4.12.0",
